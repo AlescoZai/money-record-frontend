@@ -1,16 +1,24 @@
-# money_record
+# Money Record
 
-A new Flutter project.
+Projek Personal Money Record menggunakan Flutter dan Dart.
 
-## Getting Started
+## Info Aplikasi
 
-This project is a starting point for a Flutter application.
+Projek ini dari kursus Complete Flutter, PHP, MySQL: Build Money Record App by BuildWithAngga
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot Aplikasi
+<p float="left">
+  <img src="https://github.com/AlescoZai/money-record-frontend/blob/538f18aeb50f692b27456b606055afdf08f7d32e/screenshot/Home.png" width="32%" />
+  <img src="https://github.com/AlescoZai/money-record-frontend/blob/538f18aeb50f692b27456b606055afdf08f7d32e/screenshot/Login.png" width="32%" />
+  <img src="https://github.com/AlescoZai/money-record-frontend/blob/538f18aeb50f692b27456b606055afdf08f7d32e/screenshot/Register.png" width="32%" />
+</p>
+<p float="left">
+  <img src="https://github.com/AlescoZai/money-record-frontend/blob/538f18aeb50f692b27456b606055afdf08f7d32e/screenshot/Drawer%20Menu.png" width="32%" />
+  <img src="https://github.com/AlescoZai/money-record-frontend/blob/538f18aeb50f692b27456b606055afdf08f7d32e/screenshot/History.png" width="32%" />
+  <img src="https://github.com/AlescoZai/money-record-frontend/blob/538f18aeb50f692b27456b606055afdf08f7d32e/screenshot/Add-Update.png" width="32%" />
+</p>
+<p float="left">
+  <img src="https://github.com/AlescoZai/money-record-frontend/blob/538f18aeb50f692b27456b606055afdf08f7d32e/screenshot/Income_Outcome.png" width="32%" />
+  <img src="https://github.com/AlescoZai/money-record-frontend/blob/538f18aeb50f692b27456b606055afdf08f7d32e/screenshot/Detail_Income_Outcome.png" width="32%" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
